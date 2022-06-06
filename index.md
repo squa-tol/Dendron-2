@@ -32,6 +32,43 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/squa-tol/Dendron-2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+---
+id: uy36lcb6x9tvu1u83qg8br5
+title: Инструменты для проектного управления
+desc: ''
+updated: 1654462075644
+created: 1654461758053
+---
+Ниже вы можете найти информацию по разным группам инструментов
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Аспекты
+- Риски и открытые вопросы
+- Заинтересованные стороны
+- Выгоды
+- Сроки
+
+## Типы инструментов
+- Артефакты
+- Совещания
+- Модели
+- Механизмы
+- Фреймворки
+
+## Фазы проекта
+- Инициация
+- Планирование
+- Реализация
+- Постпроектный мониторинг
+
+## Сложность проекта
+- Малый проект
+- Средний проект
+- Крупный проект
+
+## Теги
+- Отчеты
+- Реестры
+- Параметры проекта
+- Стратегия
+- Ритуал
+- Диаграмма
